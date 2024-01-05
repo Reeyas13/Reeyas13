@@ -1,9 +1,9 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeyas13" alt="reeyas13" /></a> </p>
 <h1 align="center">Hi 👋, I'm Rohan Karki</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 <h3 align="center">🚀 Aspiring Developer | 💻 Full Stack Enthusiast | 🌐 Web Development | 🛠️ Problem Solver</h3>
 <h3 align="center">🔭 I’m currently exploring the vast world of web development and honing my skills in various
     technologies.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeyas13" alt="reeyas13" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>

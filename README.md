@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=reeyas13&theme=flat&no-frame=true&column=7&margin-w=4" alt="trophies" />
+
+![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Reeyas13)
 
 </div>
 
